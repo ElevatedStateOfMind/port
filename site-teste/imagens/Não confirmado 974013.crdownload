@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage" lang="pt-PT">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://seconci.com.br/site/xmlrpc.php">
+	    <script type="text/javascript">
+        /* <![CDATA[ */
+        var ajaxurl = "http://seconci.com.br/site/wp-admin/admin-ajax.php";
+        /* ]]> */
+    </script>
+	<title>Alteração dos requisitos do PPP &#8211; Seconci Brasil</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Seconci Brasil &raquo; Feed" href="http://seconci.com.br/site/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Seconci Brasil &raquo; Feed de comentários" href="http://seconci.com.br/site/comments/feed/" />
+<link rel='stylesheet' id='pmpro_frontend-css'  href='http://seconci.com.br/site/wp-content/plugins/paid-memberships-pro/css/frontend.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='pmpro_print-css'  href='http://seconci.com.br/site/wp-content/plugins/paid-memberships-pro/css/print.css' type='text/css' media='print' />
+<link rel='stylesheet' id='bp-legacy-css-css'  href='http://seconci.com.br/site/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.min.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://seconci.com.br/site/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://seconci.com.br/site/wp-content/plugins/revslider/public/assets/css/settings.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='http://seconci.com.br/site/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='http://seconci.com.br/site/wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='wpems-countdown-css-css'  href='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/inc/libraries//countdown/css/jquery.countdown.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpems-owl-carousel-css-css'  href='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/inc/libraries//owl-carousel/css/owl.carousel.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpems-magnific-popup-css-css'  href='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/inc/libraries//magnific-popup/css/magnific-popup.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpems-fronted-css-css'  href='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='learn-press-bundle-css'  href='http://seconci.com.br/site/wp-content/plugins/learnpress/assets/css/bundle.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-style-css'  href='http://seconci.com.br/site/wp-content/themes/eduma/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-custom-vc-css'  href='http://seconci.com.br/site/wp-content/themes/eduma/assets/css/custom-vc.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-font-flaticon-css'  href='http://seconci.com.br/site/wp-content/themes/eduma/assets/css/flaticon.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thim-style-options-css'  href='//seconci.com.br/site/wp-content/uploads/tc_stylesheets/eduma.1536040451.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://seconci.com.br/site/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/buddypress/bp-core/js/confirm.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-cookie.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/buddypress/bp-core/js/vendor/jquery-scroll-to.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all comments (%d)","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/site\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/site\/?wc-ajax=%%endpoint%%","i18n_view_cart":"Ver carrinho","cart_url":"http:\/\/seconci.com.br\/site","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-includes/js/underscore.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/learnpress/assets/js/vendor/plugins.all.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var userSettings = {"url":"\/site\/","uid":"0","time":"1678902306","secure":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-includes/js/utils.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lpGlobalSettings = {"url":"http:\/\/seconci.com.br\/site\/2022\/05\/16\/alteracao-dos-requisitos-do-ppp\/","siteurl":"http:\/\/seconci.com.br\/site","ajax":"http:\/\/seconci.com.br\/site\/wp-admin\/admin-ajax.php","theme":"eduma","localize":{"button_ok":"OK","button_cancel":"Cancelar","button_yes":"Sim","button_no":"N\u00e3o"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/learnpress/assets/js/global.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/learnpress/assets/js/utils.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/learnpress/assets/js/frontend/learnpress.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/learnpress/assets/js/frontend/course.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/learnpress/assets/js/frontend/become-teacher.js'></script>
+<link rel='https://api.w.org/' href='http://seconci.com.br/site/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://seconci.com.br/site/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://seconci.com.br/site/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Radar Trabalhista: SIT lança ferramenta de Autodiagnóstico Trabalhista' href='http://seconci.com.br/site/2022/05/13/radar-trabalhista-sit-lanca-ferramenta-de-autodiagnostico-trabalhista/' />
+<link rel='next' title='Seconci Grande Florianópolis lança primeiro site na história da Entidade' href='http://seconci.com.br/site/2022/05/18/seconci-grande-florianopolis-lanca-primeiro-site-na-historia-da-entidade/' />
+<meta name="generator" content="WordPress 4.9.22" />
+<meta name="generator" content="WooCommerce 3.4.8" />
+<link rel="canonical" href="http://seconci.com.br/site/2022/05/16/alteracao-dos-requisitos-do-ppp/" />
+<link rel='shortlink' href='http://seconci.com.br/site/?p=11790' />
+<link rel="alternate" type="application/json+oembed" href="http://seconci.com.br/site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fseconci.com.br%2Fsite%2F2022%2F05%2F16%2Falteracao-dos-requisitos-do-ppp%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://seconci.com.br/site/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fseconci.com.br%2Fsite%2F2022%2F05%2F16%2Falteracao-dos-requisitos-do-ppp%2F&#038;format=xml" />
+
+	<script type="text/javascript">var ajaxurl = 'http://seconci.com.br/site/wp-admin/admin-ajax.php';</script>
+
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	            <script type="text/javascript">
+                function tc_insert_internal_css(css) {
+                    var tc_style = document.createElement("style");
+                    tc_style.type = "text/css";
+                    tc_style.setAttribute('data-type', 'tc-internal-css');
+                    var tc_style_content = document.createTextNode(css);
+                    tc_style.appendChild(tc_style_content);
+                    document.head.appendChild(tc_style);
+                }
+            </script>
+			<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://seconci.com.br/site/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="http://seconci.com.br/site/wp-content/uploads/2018/08/fav-100x100.png" sizes="32x32" />
+<link rel="icon" href="http://seconci.com.br/site/wp-content/uploads/2018/08/fav.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://seconci.com.br/site/wp-content/uploads/2018/08/fav.png" />
+<meta name="msapplication-TileImage" content="http://seconci.com.br/site/wp-content/uploads/2018/08/fav.png" />
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+        <script type="text/javascript">
+            if (typeof ajaxurl === 'undefined') {
+                /* <![CDATA[ */
+                var ajaxurl = "http://seconci.com.br/site/wp-admin/admin-ajax.php";
+                /* ]]> */
+            }
+        </script>
+		<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="bp-legacy post-template-default single single-post postid-11790 single-format-standard pmpro-body-has-access woocommerce-no-js group-blog thim-demo-university-3 thim-body-preload bg-boxed-image wpb-js-composer js-comp-ver-5.5.2 vc_responsive no-js" id="thim-body">
+            <div id="preload">
+				<img src="http://seconci.com.br/site/wp-content/uploads/2018/08/wait.gif" alt="Preaload Image"/>            </div>
+		
+<div id="wrapper-container" class="wrapper-container">
+	<div class="content-pusher">
+		<header id="masthead" class="site-header affix-top bg-custom-sticky header_default header_v3">
+				<div id="toolbar" class="toolbar">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div class="toolbar-container">
+						<aside id="nav_menu-20" class="widget widget_nav_menu"><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-7319" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7319 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="#" class="tc-menu-inner">Eventos</a></li>
+<li id="menu-item-7331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7331 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://seconci.com.br/site/sobre/" class="tc-menu-inner">Diretoria</a></li>
+<li id="menu-item-7332" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7332 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="#" class="tc-menu-inner">Seja um parceiro</a></li>
+<li id="menu-item-7333" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7333 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="#" class="tc-menu-inner">Anuncie</a></li>
+</ul></div></aside>					</div>
+				</div>
+			</div>
+		</div>
+	</div><!--End/div#toolbar-->
+<!-- <div class="main-menu"> -->
+<div class="container">
+	<div class="header_v3_container">
+		<div class="width-logo table-cell sm-logo">
+			<a href="http://seconci.com.br/site/" title="Seconci Brasil - " rel="home" class="no-sticky-logo"><img src="http://seconci.com.br/site/wp-content/uploads/2018/08/loho.jpg" alt="Seconci Brasil" ></a><a href="http://seconci.com.br/site/" rel="home" class="sticky-logo"><img src="http://seconci.com.br/site/wp-content/uploads/2018/08/loho.jpg" alt="Seconci Brasil" ></a>		</div>
+
+					<div class="sidebar-header">
+				<aside id="thim_layout_builder-2" class="widget widget_thim_layout_builder footer_bottom_widget"><style>.vc_custom_1482921112418{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1482918934387{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1482918965456{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1482918974312{padding-right: 0px !important;padding-left: 0px !important;}.vc_custom_1482918983891{padding-right: 0px !important;padding-left: 0px !important;}</style><div class="vc_row wpb_row vc_row-fluid vc_custom_1482921112418"><div class="wpb_column vc_column_container vc_col-sm-9"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner vc_custom_1482918934387"><div class="wpb_wrapper"><div class="thim-widget-link"><h4 class="title"><a href="http://seconci.com.br/site">Home</a></h4><div class="desc">Página inicial do site</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner vc_custom_1482918965456"><div class="wpb_wrapper"><div class="thim-widget-link"><h4 class="title"><a href="http://seconci.com.br/site/sobre">Sobre</a></h4><div class="desc">Conheça o Seconci Brasil</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner vc_custom_1482918974312"><div class="wpb_wrapper"><div class="thim-widget-link"><h4 class="title"><a href="http://seconci.com.br/site/onde-estamos">Onde estamos?</a></h4><div class="desc">Onde nos encontrar</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner vc_custom_1482918983891"><div class="wpb_wrapper"><div class="thim-widget-link"><h4 class="title"><a href="http://seconci.com.br/site/noticias/">Notícias</a></h4><div class="desc">Confira as últimas notícias do setor</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-1/5"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-widget-link"><h4 class="title"><a href="http://seconci.com.br/site/publicacoes/">Publicações</a></h4><div class="desc">Veja as publicações</div></div></div></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="thim-widget-button"><a class="widget-button tiny-rounded no-border small custom_style position-after" href="http://seconci.com.br/site/contato" style="font-size: 13px;font-weight: 500;color: #ffffff;border-color: #077f40;background-color: #077f40;" data-hover="font-size: 13px;font-weight: 500;color: #ffffff;border-color: #077f40;background-color: #077f40;">FALE CONOSCO<i class="fa fa-envelope-open" style="font-size: 14px;"></i> </a></div></div></div></div></div></aside>			</div>
+		
+			</div>
+</div>
+		</header>
+		<!-- Mobile Menu-->
+		<nav class="mobile-menu-container mobile-effect">
+			<ul class="nav navbar-nav">
+	<div class="menu"><ul>
+<li ><a href="http://seconci.com.br/site/">Início</a></li><li id="menu-item-87" class="menu-item-87 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9169" class="menu-item-9169 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9330" class="menu-item-9330 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9426" class="menu-item-9426 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9503" class="menu-item-9503 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9447" class="menu-item-9447 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9458" class="menu-item-9458 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9476" class="menu-item-9476 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9480" class="menu-item-9480 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9498" class="menu-item-9498 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9487" class="menu-item-9487 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9359" class="menu-item-9359 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9432" class="menu-item-9432 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9492" class="menu-item-9492 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9441" class="menu-item-9441 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-9401" class="menu-item-9401 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-125" class="menu-item-125 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-91" class="menu-item-91 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-7644" class="menu-item-7644 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+<li id="menu-item-2901" class="menu-item-2901 tc-menu-item tc-menu-depth-0 tc-menu-layout-default"><span class="tc-menu-inner"></span></li>
+</ul></div>
+
+</ul>
+
+		</nav>
+		<div id="main-content">    <section class="content-area">
+		<div class="top_heading  _out">
+    <div class="top_site_main " style="color: #ffffff;background-image:url(http://seconci.com.br/site/wp-content/uploads/2018/08/bgslid.png);">
+        <span class="overlay-top-header" style="background:rgba(0,0,0,0.5);"></span>
+                    <div class="page-title-wrapper">
+                <div class="banner-wrapper container">
+                    <h2>Seconci Joinville</h2>                </div>
+            </div>
+            </div>
+            <div class="breadcrumbs-wrapper">
+            <div class="container">
+				<ul itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList" id="breadcrumbs" class="breadcrumbs"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://seconci.com.br/site" title="Home"><span itemprop="name">Home</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://seconci.com.br/site/noticias/" title="Blog"><span itemprop="name">Blog</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="http://seconci.com.br/site/category/seconci-joinville/" title="Seconci Joinville"><span itemprop="name">Seconci Joinville</span></a></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span itemprop="name" title="Alteração dos requisitos do PPP">Alteração dos requisitos do PPP</span></li></ul>            </div>
+        </div>
+		</div><div class="container site-content sidebar-right"><div class="row"><main id="main" class="site-main col-sm-9 alignleft">
+<div class="page-content">
+         
+<article id="post-11790" class="post-11790 post type-post status-publish format-standard has-post-thumbnail hentry category-seconci-joinville pmpro-has-access">
+
+
+	<div class="page-content-inner">
+					<header class="entry-header">
+				<h1 class="entry-title">Alteração dos requisitos do PPP</h1>						<ul class="entry-meta">
+							<li class="entry-category">
+					<span>Categories</span> <a href="http://seconci.com.br/site/category/seconci-joinville/" rel="category tag">Seconci Joinville</a>				</li>
+								<li class="entry-date">
+					<span>Date</span>
+					<span class="value"> Maio 16, 2022</span>
+				</li>
+				
+		</ul>
+					</header>
+			<div class='post-formats-wrapper'><a class="post-image" href="http://seconci.com.br/site/2022/05/16/alteracao-dos-requisitos-do-ppp/"><img width="500" height="300" src="http://seconci.com.br/site/wp-content/uploads/2022/05/ppp.jpg" class="attachment-full size-full wp-post-image" alt="" srcset="http://seconci.com.br/site/wp-content/uploads/2022/05/ppp.jpg 500w, http://seconci.com.br/site/wp-content/uploads/2022/05/ppp-300x180.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></div>				<!-- .entry-header -->
+		<div class="entry-content">
+			<p>O Instituto Nacional do Seguro Social (INSS) publicou no Diário Oficial da União a Instrução Normativa n° 128 sobre os procedimentos e rotinas necessárias para aplicação das normas e direito previdenciário.</p>
+<p>O PPP (Perfil Profissiográfico Previdenciário) é um documento obrigatório que reúne o histórico-laboral do trabalhador, dados administrativos, descrição de atividades que ele exerceu no período trabalhado, registros ambientais, os agentes nocivos a que esteve exposto, entre outras informações, durante todo o período em que este exerceu suas atividades na respectiva empresa.<br />
+Sua principal função é comprovar as condições para habilitação de benefícios trabalhistas e serviços previdenciários, em particular, o benefício de aposentadoria especial. O preenchimento das informações é baseado no LTCAT (Laudo Técnico das Condições Ambientais de Trabalho) expedido pelo médico do trabalho ou engenheiro de segurança do trabalho.</p>
+<p>O PPP passará a ser enviado para governo federal por meio eletrônico a partir de janeiro de 2023, adequando-se ao eSocial. O documento fará parte das informações enviadas para o evento S-2240, que descreve a exposição de risco que o trabalhador encontra no ambiente de trabalho.<br />
+Até que aconteça efetivamente a substituição do PPP do papel para o meio eletrônico, as empresas continuam obrigadas a cumprir a obrigação em papel, e os PPP’s realizados no período anterior às exigências do PPP eletrônico terão validade, mesmo depois da consolidação do eSocial.<br />
+Apesar de entrar em vigor a implantação do PPP eletrônico em janeiro de 2023 as empresas precisam se prepara esse ano, e nada melhor do que contar com apoio de quem entende. Conte com os serviços do Seconci Joinville.</p>
+<p>Entre em contato com setor comercial:</p>
+<p>🖥️Site: https://www.seconcij.com.br<br />
+✉️E-mail: comercial@seconcij.com.br<br />
+☎️Telefone: (47) 3433-5737<br />
+📲Celular: (47) 9 9216-5800</p>
+<p><em>Fonte: Seconci Joinville</em></p>
+					</div>
+		<div class="entry-tag-share">
+			<div class="row">
+				<div class="col-sm-6">
+									</div>
+				<div class="col-sm-6">
+					<ul class="thim-social-share"><li class="heading">Share:</li><li><div class="facebook-social"><a target="_blank" class="facebook"  href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fseconci.com.br%2Fsite%2F2022%2F05%2F16%2Falteracao-dos-requisitos-do-ppp%2F" title="Facebook"><i class="fa fa-facebook"></i></a></div></li><li><div class="googleplus-social"><a target="_blank" class="googleplus" href="https://plus.google.com/share?url=http%3A%2F%2Fseconci.com.br%2Fsite%2F2022%2F05%2F16%2Falteracao-dos-requisitos-do-ppp%2F&amp;title=Altera%C3%A7%C3%A3o%20dos%20requisitos%20do%20PPP" title="Google Plus" onclick='javascript:window.open(this.href, "", "menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600");return false;'><i class="fa fa-google"></i></a></div></li><li><div class="twitter-social"><a target="_blank" class="twitter" href="https://twitter.com/share?url=http%3A%2F%2Fseconci.com.br%2Fsite%2F2022%2F05%2F16%2Falteracao-dos-requisitos-do-ppp%2F&amp;text=Altera%C3%A7%C3%A3o%20dos%20requisitos%20do%20PPP" title="Twitter"><i class="fa fa-twitter"></i></a></div></li><li><div class="pinterest-social"><a target="_blank" class="pinterest"  href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fseconci.com.br%2Fsite%2F2022%2F05%2F16%2Falteracao-dos-requisitos-do-ppp%2F&amp;description=O%20Instituto%20Nacional%20do%20Seguro%20Social%20%28INSS%29%20publicou%20no%20Di%C3%A1rio%20Oficial%20da%20Uni%C3%A3o%20a%20Instru%C3%A7%C3%A3o%20Normativa%20n%C2%B0%20128%20sobre%20os%20procedimentos%20e%20rotinas%20necess%C3%A1rias%20para%20aplica%C3%A7%C3%A3o%20das%20normas%20e%20direito%20previdenci%C3%A1rio.%20O%20PPP%20%28Perfil%20Profissiogr%C3%A1fico%20Previdenci%C3%A1rio%29%20%C3%A9%20um%20documento%20obrigat%C3%B3rio%20%26hellip%3B%20&amp;media=http%3A%2F%2Fseconci.com.br%2Fsite%2Fwp-content%2Fuploads%2F2022%2F05%2Fppp.jpg" onclick="window.open(this.href); return false;" title="Pinterest"><i class="fa fa-pinterest-p"></i></a></div></li></ul>				</div>
+			</div>
+		</div>
+				<div class="thim-about-author">
+			<div class="author-wrapper">
+				<div class="author-avatar">
+									</div>
+				<div class="author-bio">
+					<div class="author-top">
+						<a class="name" href="http://seconci.com.br/site/author/sidney-rocha/">
+							Sidney Rocha						</a>
+											</div>
+					<ul class="thim-author-social">
+						
+						
+						
+						
+											</ul>
+
+				</div>
+				<div class="author-description">
+									</div>
+			</div>
+		</div>
+		
+							<div class="entry-navigation-post">
+									<div class="prev-post">
+						<p class="heading">Notícia anterior</p>
+						<h5 class="title">
+							<a href="http://seconci.com.br/site/2022/05/13/radar-trabalhista-sit-lanca-ferramenta-de-autodiagnostico-trabalhista/">Radar Trabalhista: SIT lança ferramenta de Autodiagnóstico Trabalhista</a>
+						</h5>
+
+						<div class="date">
+							Maio 16, 2022						</div>
+					</div>
+				
+									<div class="next-post">
+						<p class="heading">Próxima Notícia</p>
+						<h5 class="title">
+							<a href="http://seconci.com.br/site/2022/05/18/seconci-grande-florianopolis-lanca-primeiro-site-na-historia-da-entidade/">Seconci Grande Florianópolis lança primeiro site na história da Entidade</a>
+						</h5>
+
+						<div class="date">
+							Maio 18, 2022						</div>
+					</div>
+							</div>
+
+					</div>
+</article>             </div></main>
+<div id="sidebar" class="widget-area col-sm-3 sticky-sidebar" role="complementary">
+	<aside id="search-4" class="widget widget_search"><h4 class="widget-title">Pesquise</h4><form role="search" method="get" class="search-form" action="http://seconci.com.br/site/">
+				<label>
+					<span class="screen-reader-text">Pesquisar por:</span>
+					<input type="search" class="search-field" placeholder="Pesquisar &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Pesquisar" />
+			</form></aside><aside id="categories-2" class="widget widget_categories"><h4 class="widget-title">Filtrar por Estado</h4>		<ul>
+	<li class="cat-item cat-item-75"><a href="http://seconci.com.br/site/category/seconci-anapolis/" >Seconci Anápolis</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="http://seconci.com.br/site/category/seconci-blumenau/" >Seconci Blumenau</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://seconci.com.br/site/category/seconci-brasil/" >Seconci Brasil</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://seconci.com.br/site/category/seconci-distrito-federal/" >Seconci Distrito Federal</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="http://seconci.com.br/site/category/seconci-espirito-santo/" >Seconci Espírito Santo</a>
+</li>
+	<li class="cat-item cat-item-86"><a href="http://seconci.com.br/site/category/seconci-florianopolis/" >Seconci Florianópolis</a>
+</li>
+	<li class="cat-item cat-item-79"><a href="http://seconci.com.br/site/category/seconci-goias/" >Seconci Goiás</a>
+</li>
+	<li class="cat-item cat-item-80"><a href="http://seconci.com.br/site/category/seconci-joinville/" >Seconci Joinville</a>
+</li>
+	<li class="cat-item cat-item-81"><a href="http://seconci.com.br/site/category/seconci-manaus/" >Seconci Manaus</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="http://seconci.com.br/site/category/seconci-minas-gerais/" >Seconci Minas Gerais</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://seconci.com.br/site/category/seconci-noroeste-pr/" >Seconci Noroeste/PR</a>
+</li>
+	<li class="cat-item cat-item-82"><a href="http://seconci.com.br/site/category/seconci-parana/" >Seconci Paraná</a>
+</li>
+	<li class="cat-item cat-item-83"><a href="http://seconci.com.br/site/category/seconci-parana-norte/" >Seconci Paraná Norte</a>
+</li>
+	<li class="cat-item cat-item-85"><a href="http://seconci.com.br/site/category/seconci-rio-de-janeiro/" >Seconci Rio de Janeiro</a>
+</li>
+	<li class="cat-item cat-item-87"><a href="http://seconci.com.br/site/category/seconci-sao-paulo/" >Seconci São Paulo</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="http://seconci.com.br/site/category/seconci-uberlandia/" >Seconci TAP</a>
+</li>
+	<li class="cat-item cat-item-88"><a href="http://seconci.com.br/site/category/seconci-tocantins/" >Seconci Tocantins</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://seconci.com.br/site/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</aside><aside id="list-post-2" class="widget widget_list-post"><div class="thim-widget-list-post thim-widget-list-post-base"><h4 class="widget-title">Últimas notícias</h4><div class="thim-list-posts sidebar">			<div class="item-post has_thumb post-12607 post type-post status-publish format-standard has-post-thumbnail hentry category-seconci-brasil category-seconci-rio-de-janeiro pmpro-has-access">
+				<div class="article-image"><img width="150" height="150" src="http://seconci.com.br/site/wp-content/uploads/2023/03/2407.164-Incontinencia-Urinaria-Destacada_APROVADO-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://seconci.com.br/site/wp-content/uploads/2023/03/2407.164-Incontinencia-Urinaria-Destacada_APROVADO-150x150.png 150w, http://seconci.com.br/site/wp-content/uploads/2023/03/2407.164-Incontinencia-Urinaria-Destacada_APROVADO-300x300.png 300w, http://seconci.com.br/site/wp-content/uploads/2023/03/2407.164-Incontinencia-Urinaria-Destacada_APROVADO-100x100.png 100w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="article-title-wrapper"><h5><a href="http://seconci.com.br/site/2023/03/15/no-dia-nacional-da-incontinencia-urinaria-seconci-rio-alerta-que-tratamento-medico-faz-toda-a-diferenca/" class="article-title">No Dia Nacional da Incontinência Urinária, Seconci-Rio alerta que tratamento médico faz toda a diferença</a></h5><div class="article-date"><span class="day">15</span><span class="month">Mar</span><span class="year">2023</span></div></div>			</div>
+						<div class="item-post has_thumb post-12602 post type-post status-publish format-standard has-post-thumbnail hentry category-seconci-distrito-federal pmpro-has-access">
+				<div class="article-image"><img width="150" height="150" src="http://seconci.com.br/site/wp-content/uploads/2023/03/PHD-14-1536x1152-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://seconci.com.br/site/wp-content/uploads/2023/03/PHD-14-1536x1152-150x150.jpeg 150w, http://seconci.com.br/site/wp-content/uploads/2023/03/PHD-14-1536x1152-300x300.jpeg 300w, http://seconci.com.br/site/wp-content/uploads/2023/03/PHD-14-1536x1152-100x100.jpeg 100w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="article-title-wrapper"><h5><a href="http://seconci.com.br/site/2023/03/15/seconci-df-df-se-torna-referencia-no-combate-a-hipertensao-e-diabetes/" class="article-title">Seconci-DF: DF se torna referência no combate à hipertensão e diabetes</a></h5><div class="article-date"><span class="day">15</span><span class="month">Mar</span><span class="year">2023</span></div></div>			</div>
+						<div class="item-post has_thumb post-12598 post type-post status-publish format-standard has-post-thumbnail hentry category-seconci-brasil pmpro-has-access">
+				<div class="article-image"><img width="150" height="150" src="http://seconci.com.br/site/wp-content/uploads/2023/03/pesquisa-cprt-2-1-150x150.jpeg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://seconci.com.br/site/wp-content/uploads/2023/03/pesquisa-cprt-2-1-150x150.jpeg 150w, http://seconci.com.br/site/wp-content/uploads/2023/03/pesquisa-cprt-2-1-300x300.jpeg 300w, http://seconci.com.br/site/wp-content/uploads/2023/03/pesquisa-cprt-2-1-100x100.jpeg 100w" sizes="(max-width: 150px) 100vw, 150px" /></div><div class="article-title-wrapper"><h5><a href="http://seconci.com.br/site/2023/03/14/cbic-lanca-pesquisa-de-implementacao-do-gro-pgr-na-industria-da-construcao/" class="article-title">CBIC lança pesquisa de implementação do GRO/PGR na Indústria da Construção</a></h5><div class="article-date"><span class="day">14</span><span class="month">Mar</span><span class="year">2023</span></div></div>			</div>
+			</div></div></aside><aside id="media_image-2" class="widget widget_media_image"><img class="image " src="http://joaoedengraph.ml/seconcibrasil/wp-content/uploads/2018/08/anuncie-276x300.png" alt="" width="276" height="300" /></aside></div><!-- #secondary -->
+</div></div>    </section>
+
+<footer id="colophon" class=" site-footer footer-bg-image">
+			<div class="footer">
+			<div class="container">
+				<div class="row">
+					<aside id="thim_layout_builder-3" class="widget widget_thim_layout_builder footer_widget"><div class="vc_row wpb_row vc_row-fluid"><div class="width-40 wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<div class="textwidget">
+	<div class="thim-footer-info-3 text-center">
+		<img class="alignnone size-full wp-image-10" src="http://joaoedengraph.ml/seconcibrasil/wp-content/uploads/2018/08/logobrasilia.png" alt="logo-eduma-the-best-lms-wordpress-theme" width="202" height="113">
+		
+		
+		<p class="line"></p>
+		<p class="copyright-text">© 2018
+			<a href="#">Seconci Brasil</a> 
+			
+		</p>
+	</div>
+</div>
+		</div>
+	</div>
+</div></div></div><div class="width-60 wpb_column vc_column_container vc_col-sm-7"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_wp_custommenu wpb_content_element"><div class="widget widget_nav_menu"><h3 class="widget-title">Menu</h3><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-7540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-7540 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://seconci.com.br/site" class="tc-menu-inner">Home</a></li>
+<li id="menu-item-7541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7541 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://seconci.com.br/site/sobre/" class="tc-menu-inner">Sobre</a></li>
+<li id="menu-item-7542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7542 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://seconci.com.br/site/onde-estamos/" class="tc-menu-inner">Onde Estamos</a></li>
+<li id="menu-item-7543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7543 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://seconci.com.br/site/noticias/" class="tc-menu-inner">Noticias</a></li>
+</ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_wp_custommenu wpb_content_element"><div class="widget widget_nav_menu"><h3 class="widget-title">Expediente</h3><div class="menu-support-container"><ul id="menu-support" class="menu"><li id="menu-item-7660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7660 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://seconci.com.br/site/publicacoes/" class="tc-menu-inner">Publicações</a></li>
+<li id="menu-item-7305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7305 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="#" class="tc-menu-inner">Seja um parceiro</a></li>
+<li id="menu-item-7306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7306 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="#" class="tc-menu-inner">Anuncie</a></li>
+<li id="menu-item-7307" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7307 tc-menu-item tc-menu-depth-0 tc-menu-align-left tc-menu-layout-default"><a href="http://seconci.com.br/site/contato/" class="tc-menu-inner">Fale Conosco</a></li>
+</ul></div></div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="vc_wp_text wpb_content_element"><div class="widget widget_text"><h3 class="widget-title">Newsletter</h3>			<div class="textwidget"><p>Cadastre seu e-mail para receber as novidades.<br />
+<script>(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2.4 - https://wordpress.org/plugins/mailchimp-for-wp/ --></p>
+<form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-3101 mc4wp-form-basic" method="post" data-id="3101" data-name="Default sign-up form" >
+<div class="mc4wp-form-fields"><input type="email" id="mc4wp_email" name="EMAIL" placeholder="Your email here" required /><input type="submit" value="Subscribe" /></div>
+<p><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1678902306" /><input type="hidden" name="_mc4wp_form_id" value="3101" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></p>
+<div class="mc4wp-response"></div>
+</form>
+<p><!-- / MailChimp for WordPress Plugin --></p>
+</div>
+		</div></div></div></div></div></div></div></div></div></div></aside>				</div>
+			</div>
+		</div>
+	
+	
+</footer><!-- #colophon -->
+</div><!--end main-content-->
+
+
+</div><!-- end content-pusher-->
+
+            <a href="#" id="back-to-top">
+                <i class="fa fa-chevron-up" aria-hidden="true"></i>
+            </a>
+			
+
+</div><!-- end wrapper-container -->
+
+		<!-- Memberships powered by Paid Memberships Pro v1.9.5.3.
+ -->
+		            <script data-cfasync="false" type="text/javascript">
+                window.onload = function () {
+                    var thim_preload = document.getElementById("preload");
+                    if (thim_preload) {
+                        setTimeout(function () {
+                            var body = document.getElementById("thim-body"),
+                                len = body.childNodes.length,
+                                class_name = body.className.replace(/(?:^|\s)thim-body-preload(?!\S)/, '').replace(/(?:^|\s)thim-body-load-overlay(?!\S)/, '');
+
+                            body.className = class_name;
+                            if (typeof thim_preload !== 'undefined' && thim_preload !== null) {
+                                for (var i = 0; i < len; i++) {
+                                    if (body.childNodes[i].id !== 'undefined' && body.childNodes[i].id == "preload") {
+                                        body.removeChild(body.childNodes[i]);
+                                        break;
+                                    }
+                                }
+                            }
+                        }, 500);
+                    }
+                };
+            </script>
+			        <script>
+            window.addEventListener('load', function () {
+                /**
+                 * Fix issue there is an empty spacing between image and title of owl-carousel
+                 */
+                setTimeout(function () {
+                    var $ = jQuery;
+                    var $carousel = $('.thim-owl-carousel-post').each(function () {
+                        $(this).find('.image').css('min-height', 0);
+                        $(window).trigger('resize');
+                    });
+                }, 500);
+            })
+        </script>
+		                    <script data-cfasync="true" type="text/javascript">
+                        (function ($) {
+                            "use strict";
+                            $(document).on('click', 'body:not(".logged-in") .enroll-course .button-enroll-course, body:not(".logged-in") .purchase-course:not(".guest_checkout") .button', function (e) {
+                                e.preventDefault();
+                                $(this).parent().find('[name="redirect_to"]').val('http://seconci.com.br/site/wp-login.php?redirect_to=http://seconci.com.br/site/2022/05/16/alteracao-dos-requisitos-do-ppp/?enroll-course=11790');
+                                var redirect = $(this).parent().find('[name="redirect_to"]').val();
+                                window.location = redirect;
+                            });
+                        })(jQuery);
+                    </script>
+					            <script>
+                (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                            (i[r].q = i[r].q || []).push(arguments)
+                        }, i[r].l = 1 * new Date();
+                    a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+                ga('create', 'UA-125032839-1', 'auto');
+                ga('send', 'pageview');
+            </script>
+			<script>(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script>	<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+	<link rel='stylesheet' id='js_composer_front-css'  href='http://seconci.com.br/site/wp-content/plugins/js_composer/assets/css/js_composer.min.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/seconci.com.br\/site\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Por favor, confirme que n\u00e3o \u00e9 um rob\u00f4."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/site\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/site\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/site\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-includes/js/wp-util.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-includes/js/backbone.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/inc/libraries//countdown/js/jquery.plugin.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPEMS = {"gmt_offset":"0","current_time":"Mar 15, 2023 17:45:00 +0000","l18n":{"labels":["Years","Months","Weeks","Days","Hours","Minutes","Seconds"],"labels1":["Year","Month","Week","Day","Hour","Minute","Second"]},"ajaxurl":"http:\/\/seconci.com.br\/site\/wp-admin\/admin-ajax.php","something_wrong":"Something went wrong","register_button":"a6e64251b5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/inc/libraries//countdown/js/jquery.countdown.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/inc/libraries//owl-carousel/js/owl.carousel.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/inc/libraries//magnific-popup/js/jquery.magnific-popup.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/wp-events-manager/assets//js/frontend/events.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/themes/eduma/assets/js/main.min.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/themes/eduma/assets/js/smooth_scroll.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thim_js_translate = {"login":"Username","password":"Password","close":"Close"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/themes/eduma/assets/js/custom-script-v2.js'></script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js?ver=3.0.22'></script>
+<script type='text/javascript'>
+WebFont.load({google:{families:['Poppins:300,300i,400,400i,500,500i,700,700i']}});
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.2.4'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='http://seconci.com.br/site/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.2.4'></script>
+<![endif]-->
+</body>
+</html>
